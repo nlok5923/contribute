@@ -1,1 +1,1 @@
-# Successfull contributors :sparkles:
+# Successfull contributors ✨
