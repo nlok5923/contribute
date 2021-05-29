@@ -16,7 +16,7 @@ Follow the instructions in order:
 4. Create a branch named `add-{github-username}`, using
     `git checkout -b add-{github-username}`
 
-6. Add a `.txt` file with file name as your github username inside `_post` folder.
+6. Add a `.txt` file with file name as your github username inside `_post` folder the format of the file should be same as of `sample.txt` in `_post` folder.
 
 7. Now add this file to your staging area, using
     `git add "_post/{filename}.txt"`
