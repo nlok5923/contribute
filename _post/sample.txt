@@ -1,0 +1,3 @@
+Name: <yourname>
+Github username: <github-username> 
+What you learned today: <what your learned in today's talk> 
