@@ -1,0 +1,3 @@
+Name: Hrishubh Bhandari
+Github username: Hrishubh 
+What you learned today: Today we learnt about GSOC and how to Make contributions to GITHUB.
