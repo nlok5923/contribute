@@ -1,0 +1,3 @@
+Name: Nitya Patel
+Github username: nityapatel19
+What you learned today: Brushed up my git command knowledge. Furthermore, learned how to actually contribute in someone else's project.
