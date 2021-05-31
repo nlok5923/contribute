@@ -1,0 +1,3 @@
+Name: Ishan Pandey
+Github username: ishanpandey70 
+What you learned today: Learnt how to contribute to Open Source with some basic ettiquettes and guidelines of doing so.
