@@ -1,0 +1,3 @@
+Name: Aman Gangwar
+Github username: iamangangwar
+What you learned today: Learned a lot about how to get started with open source development, how it works, advantages, some good practices to be done in the process and some bad practices to avoid.
