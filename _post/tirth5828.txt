@@ -1,0 +1,3 @@
+Name: Tirth Joshi
+Github username: tirth5828
+What you learned today: To fork and push to a github repo
